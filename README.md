@@ -6,7 +6,7 @@ will keep track of status of invoice and before deadlines reminder mails will be
 
 # Getting Started With App
 Before getting started, Keep in mind you should have atleast `Node.js` and `Git` downloaded in your system. Now you have to follow below mentioned steps-
-- git clone `https://github.com/yogesh-kansal/Invoicia.git`
+- git clone `https://github.com/kbp12/Invoicia.git`
 - cd `Invoicia/invoicia_frontend` 
 - `npm install`
 
